@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EvolutionOfTheJavaLanguage>
+	<Evolution>
+		<Version>1.0</Version>
+		<Year>1996</Year>
+		<NewLanguageFeatures>The language itself</NewLanguageFeatures>
+		<Translation>语言本身</Translation>
+		<NumberOfClassesAndInterfaces>211</NumberOfClassesAndInterfaces>
+	</Evolution>
+	<Evolution>
+		<Version>1.1</Version>
+		<Year>1997</Year>
+		<NewLanguageFeatures>Inner classes</NewLanguageFeatures>
+		<Translation>内部类</Translation>
+		<NumberOfClassesAndInterfaces>477</NumberOfClassesAndInterfaces>
+	</Evolution>
+	<Evolution>
+		<Version>1.2</Version>
+		<Year>1998</Year>
+		<NewLanguageFeatures>The strictfp modifier</NewLanguageFeatures>
+		<Translation>strictfp方法修饰符</Translation>
+		<NumberOfClassesAndInterfaces>1524</NumberOfClassesAndInterfaces>
+	</Evolution>
+	<Evolution>
+		<Version>1.3</Version>
+		<Year>2000</Year>
+		<NewLanguageFeatures>None</NewLanguageFeatures>
+		<Translation>无</Translation>
+		<NumberOfClassesAndInterfaces>1840</NumberOfClassesAndInterfaces>
+	</Evolution>
+	<Evolution>
+		<Version>1.4</Version>
+		<Year>2002</Year>
+		<NewLanguageFeatures>Assertions</NewLanguageFeatures>
+		<Translation>断言</Translation>
+		<NumberOfClassesAndInterfaces>2723</NumberOfClassesAndInterfaces>
+	</Evolution>
+	<Evolution>
+		<Version>5.0</Version>
+		<Year>2004</Year>
+		<NewLanguageFeatures>Generic classes,"for each"
+			loop,varargs,autoboxing,metadata,enumerations,static import
+		</NewLanguageFeatures>
+		<Translation>泛型，for each循环，可变元参数 * 自动装箱，元数据，枚举，静态导入</Translation>
+		<NumberOfClassesAndInterfaces>3279</NumberOfClassesAndInterfaces>
+	</Evolution>
+	<Evolution>
+		<Version>6.0</Version>
+		<Year>2006</Year>
+		<NewLanguageFeatures>None</NewLanguageFeatures>
+		<Translation>无</Translation>
+		<NumberOfClassesAndInterfaces>3793</NumberOfClassesAndInterfaces>
+	</Evolution>
+	<Evolution>
+		<Version>7.0</Version>
+		<Year>2011</Year>
+		<NewLanguageFeatures>Switch with strings,diamond operator,binary
+			literals,exception handling enhancements
+		</NewLanguageFeatures>
+		<Translation>基于字符串的Switch，变形操作符，二进制字面量，异常处理改进</Translation>
+		<NumberOfClassesAndInterfaces>4024</NumberOfClassesAndInterfaces>
+	</Evolution>
+	<Evolution>
+		<Version>8.0</Version>
+		<Year>2014</Year>
+		<NewLanguageFeatures>Lambda expression,interfaces with default
+			methods,stream and date/time libraries
+		</NewLanguageFeatures>
+		<Translation>Lambda表达式，接口中定义方法，流，日期库</Translation>
+		<NumberOfClassesAndInterfaces>4240</NumberOfClassesAndInterfaces>
+	</Evolution>
+</EvolutionOfTheJavaLanguage>
